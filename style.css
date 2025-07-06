@@ -120,7 +120,7 @@ body{
 .cta_btn{
     display: inline-block;
     padding: 1rem 2rem;
-    background: linear-gradient(45deg, var(--accent), #2ecc60);
+    background: linear-gradient(45deg, var(--accent), #da6827);
     color: white;
     border-radius: 8px;
     text-decoration: none;
@@ -129,7 +129,7 @@ body{
     overflow: hidden;
 }
 .cta_btn:hover{
-    background: radial-gradient(rgb(161, 81, 92), rgb(192, 129, 192), rgb(221, 157, 213));
+    background: radial-gradient(rgb(216, 60, 13), rgb(199, 85, 9), rgb(221, 120, 62));
 }
 /* Skills Section */
 .skills{
